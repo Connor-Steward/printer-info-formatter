@@ -1,4 +1,5 @@
 # printer-info-formatter
+
 This little script I wrote saves me minutes a day! It doesn't sound much, but it all adds up. Keeping all my printer info in a spreadsheet means when I'm talking to someone about a specific printer or need to send off a request for a service/replacement etc. the info copied into Outlook or ticketing systems is messy and hard to read, for example: 
 
 ------------------------------------------------
@@ -11,7 +12,9 @@ The formatted info is returned already on the clipboard, meaning you can just pa
 ------------------------------------------------
 
 Printer Name		:	TR MFP
+
 Printer Model		:	HP M527
+
 Serial Number		:	CNM8J8JC0P
 IPv4 Address		:	172.16.12.12
 Location/Address	:	317 Princes Highway, Traralgon East, VIC, 3844
