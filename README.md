@@ -4,7 +4,7 @@ This little script I wrote saves me minutes a day! It doesn't sound much, but it
 
 
 ## Before
-TR MFP	17 Fake Highway, Altona East, VIC, 3844	3844	Traralgon	(03) 5174 3365	172.16.12.12	HP M527	CNM8J8JC0P
+TR MFP	233 Princes Rd, Altona East, VIC, 3844	3844	Altona	(03) 5146 6556	172.16.24.169	HP M527	CNMSDFDFDE12
 
 
 ## After
