@@ -23,6 +23,4 @@ Contact Name		:	contact_name
 
 Contact No.		:	contact_number
 
-Error/Problem		:	error_info
--------------------------------------------------
-
+Error/Problem   : error_info
